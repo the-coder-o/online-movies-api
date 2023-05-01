@@ -1,0 +1,9 @@
+1 papka strukturasi 
+2 server ochish
+3 serverni run qilish
+4 expressni ishga tushirish
+5 model yasab olish
+6 controller funksialani yasash
+7 yordamchi funksialani yasash
+8 database yaratish
+9 apilani yozish
